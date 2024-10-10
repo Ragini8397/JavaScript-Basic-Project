@@ -23,5 +23,17 @@ console.log(booleanisLoggedIn);
 let age = 33;
 
 let stringNumber = String(age);
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+
+// ********************  Operations ***************************
+let value = 33
+let navValue = -value
+// console.log(navValue);
+
+let str1 = "Hello";
+let str2 = " Ragini";
+
+let str3 = str1 + str2;
+console.log(str3);
